@@ -9,6 +9,7 @@ A set of hands-on projects from my intro-to-networking security coursework, focu
 | [ARP MITM Sniffer](./arp-mitm-sniffer/) | Layer 2 spoofing, MITM credential capture | Scapy, raw packet crafting, traffic analysis |
 | [DNS Poisoning & Beacon Logger](./dns-poisoning-c2/) | DNS trust exploitation, C2 detection patterns | DNS protocol, Flask, packet sniffing |
 | [Port Scanner & Fingerprinting](./tcp-portscanner-banner/) | Network reconnaissance fundamentals | Socket programming, concurrency, TTL analysis |
+
 Each project pairs an attack simulation with a written explanation of *why* it works and how it's defended against — the goal was to understand network security from both sides, not just run existing tools.
 
 ## Dependencies
